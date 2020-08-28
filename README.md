@@ -85,8 +85,9 @@ R
 # Retrospectiva [FDA 28/08/2020]
 
 ## :ledger: CONTRAS
-- Encurtar um pouco as revisões das aulas anteriores para dar mais tempo de aula nem é com relação a aula, mas as gravações são muito ruins pra assistir.
-- Gravaçõess são complicadas pra acessar também, depois da primeira semana.
+- Encurtar um pouco as revisões das aulas anteriores para dar mais tempo de aula nem é com relação a aula,
+- As gravações são muito ruins pra assistir.
+- Gravações são complicadas pra acessar também, depois da primeira semana.
 - Ter mais prática com a matéria(especificamente a parte de código) nas aulas.
 - Disponibilizar mais materiais no moodle.
  
